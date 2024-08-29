@@ -12,25 +12,11 @@
 Image Filter is an Android Libary that lets you to Filtering any image.
 You can report any issue on issues page. **Note: If you speak Arabic, you can submit issues with Arabic language and I will check them. :)**
 
+## Fork of net.alhazmy13.ImageFilters
 
 ## Installation
------- 
-**Maven**
-```xml
-<dependency>
-<groupId>net.alhazmy13.ImageFilters</groupId>
-<artifactId>library</artifactId>
-<version>0.1.2-beta</version>
-</dependency>
-```
-
-
-**Gradle**
-```gradle
-dependencies {
-	compile 'net.alhazmy13.ImageFilters:library:0.1.2-beta'
-}
-```
+------
+Download AAR > https://github.com/merlinJeyakumar/Android-ImageFilter/releases/tag/version_next
 
 # Usage
 ------ 
